@@ -5,6 +5,7 @@ import CredibilitySection from "./components/CredibilitySection";
 import FaqSection from "./components/FaqSection";
 import FinalCtaSection from "./components/FinalCtaSection";
 import FooterSection from "./components/FooterSection";
+import EarlyAccessSection from "./components/EarlyAccessSection";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <WhyGoglishSection />
       <HowItWorksSection />
       <CredibilitySection />
+      <EarlyAccessSection />
       <FaqSection />
       <FinalCtaSection />
       <FooterSection />

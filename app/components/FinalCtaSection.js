@@ -12,7 +12,7 @@ export default function FinalCtaSection() {
             </h2>
           </div>
           <a
-            href="https://forms.gle/tidDTjtAbQtxYjzZA"
+            href="#early-access"
             className="inline-flex w-full max-w-xs items-center justify-center rounded-3xl bg-slate-950 px-8 py-4 text-base font-semibold text-white shadow-xl shadow-slate-950/20 transition hover:-translate-y-0.5"
           >
             احجز مكانك الآن

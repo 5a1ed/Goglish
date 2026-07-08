@@ -22,7 +22,7 @@ export default function HeroSection() {
             </div>
             <div className="grid gap-4 sm:grid-cols-2 sm:items-center">
               <a
-                href="https://forms.gle/tidDTjtAbQtxYjzZA"
+                href="#early-access"
                 className="inline-flex items-center justify-center rounded-2xl bg-[#FFCC3A] px-6 py-4 text-base font-semibold text-slate-950 shadow-lg shadow-[#ffcc3a]/20 transition hover:-translate-y-0.5 hover:bg-[#f9c423]"
               >
                 احجز مكانك الآن
